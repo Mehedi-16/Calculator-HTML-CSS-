@@ -16,7 +16,7 @@ You can view a live demo of the calculator by [clicking here](https://github.com
 
 Here’s a screenshot of the calculator UI:
 
-![Calculator Screenshot](./images/Screenshot_2024-11-19_at_2.10.26_AM.png)
+<img width="433" alt="Screenshot 2024-11-19 at 2 10 26 AM" src="https://github.com/user-attachments/assets/c91fc0b7-f5d4-4c62-8174-46a04c6fc652">
 
 ## Installation
 
